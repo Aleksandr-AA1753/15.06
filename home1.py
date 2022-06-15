@@ -18,3 +18,4 @@ a={"a":1,"b":2,"c":3}
 # a.pop("c")
 a.setdefault("g",4)
 print(a)
+print()
